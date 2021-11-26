@@ -8,7 +8,7 @@ A Corona virus tracker application in PHP using an API to track the number of ac
 
 ## Features
 
--  Corona virus Live statistics and COVID-19 tracking.
+-  Coronavirus Live statistics and COVID-19 tracking.
 -  Displays number of confirmed, increased and deceased cases.
 
 
